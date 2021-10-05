@@ -1,7 +1,10 @@
 ### Convertidor de moneda utilizando principalmente Angular ⚡
 
 ### ✨ Función principal:
-* #### **`Convertir un tipo de moneda a otro tipo`** 
+* #### **`Convertir un monto de determinado tipo de moneda a otro`** 
+
+### ✨ Sirve para:
+* #### **`Conocer el valor de la moneda`** 
 
 ### ✨ Imágenes de ejemplo:
 
