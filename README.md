@@ -1,5 +1,9 @@
-# app-convertidor
-Convertidor de moneda made with Angular
+### Convertidor de moneda utilizando principalmente Angular ⚡
+
+### ✨ Función principal:
+* #### **`Convertir un tipo de moneda a otro tipo`** 
+
+### ✨ Imágenes de ejemplo:
 
 ![image](https://user-images.githubusercontent.com/64493715/136110030-aea701e4-b5b0-4998-948f-7682bc3c2c6e.png)
 
